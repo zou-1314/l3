@@ -1,0 +1,102 @@
+.daohang{
+height:50px;
+border-top: 3px;
+border-bottom: 1px solid#fcfcfc;
+}
+ul img{
+    width: 100px;
+    height: 40px;
+}
+ul li{
+    display: inline;
+    padding-left: 28px;
+}
+.daohang a {
+    display: inline-block;
+    padding: 0 18px;
+    font-size:8px;
+    color: #4c4c4c;
+    text-decoration: none;
+}
+
+.daohang a:hover {
+    color: rgb(46, 173, 247);
+}
+
+.daohang input{
+    height: 20px;
+    border: 1px solid#4c4c4c;
+    margin-left: 28px;
+}
+
+#b1{
+    height: 214px;
+    background-color:black;
+}
+
+.b2{
+    height:185px;
+    justify-content: center;
+    display: flex;
+}
+
+.b2 img{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+}
+
+.box1{
+    width: 100px;
+    height: 185px;
+    display: inline-block;
+    padding: 36px;
+}
+.box2{
+    width: 100px;
+    height: 185px;
+    display: inline-block;
+    padding: 36px;
+}
+.box3{
+    width: 100px;
+    height: 185px;
+    display: inline-block;
+    padding: 36px;
+}
+.zi{
+    font-size: 14px;
+    color:#4c4c4c ;
+    padding: 0 10px;
+    margin-top: 10px;
+}
+
+.tupian{
+    height: 242px;
+    background-color:rgb(138, 137, 137);
+}
+
+.tupian p{
+    position:relative;
+    left: 30%;
+    top: 23px;
+    width: 80px;
+
+}
+.p1{
+    justify-content: center;
+    display: flex;
+    padding-top: 42px;
+}
+.p2{
+    justify-content: center;
+    display: flex;
+}
+.tupian img{
+    width: 100px;
+    height:78px;
+}
+
+.b3{
+    height: 175px;
+}
